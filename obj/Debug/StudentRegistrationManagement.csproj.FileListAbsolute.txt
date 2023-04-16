@@ -1,0 +1,10 @@
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\bin\Debug\StudentRegistrationManagement.exe.config
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\bin\Debug\StudentRegistrationManagement.exe
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\bin\Debug\StudentRegistrationManagement.pdb
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\obj\Debug\StudentRegistrationManagement.csprojAssemblyReference.cache
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\obj\Debug\StudentRegistrationManagement.Form1.resources
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\obj\Debug\StudentRegistrationManagement.Properties.Resources.resources
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\obj\Debug\StudentRegistrationManagement.csproj.GenerateResource.cache
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\obj\Debug\StudentRegistrationManagement.csproj.CoreCompileInputs.cache
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\obj\Debug\StudentRegistrationManagement.exe
+C:\Users\ARAVINDH K\source\repos\StudentRegistrationManagement\StudentRegistrationManagement\obj\Debug\StudentRegistrationManagement.pdb
